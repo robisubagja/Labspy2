@@ -1,12 +1,12 @@
-a = int(input("masukan bilangan pertama : "))
-b = int(input("masukan bilangan kedua : "))
-c = int(input("masukan bilangan ketiga : "))
+e = int(input("masukan bilangan pertama : "))
+f = int(input("masukan bilangan kedua : "))
+g = int(input("masukan bilangan ketiga : "))
 
-if a > b and a > c:
-    print("maks = ", a)
-elif b > a and b > c:
-    print("maks = ", b)
+if e > f and e > g:
+    print("maks = ", e)
+elif f > e and f > g:
+    print("maks = ", f)
      
 else: 
-    print("maks = ", c)
+    print("maks = ", g)
 
