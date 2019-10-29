@@ -9,4 +9,3 @@
 
 5. dan ini adalah hasil nya
 
-    ![tugas](https://user-images.githubusercontent.com/56831922/67680531-fff6a480-f9bd-11e9-9aec-262710570f3f.jpg)
