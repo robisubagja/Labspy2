@@ -10,3 +10,6 @@
 
 ![tugas1](https://user-images.githubusercontent.com/56831922/67743054-3ed53a80-fa50-11e9-8a0e-d98e5d1d0b07.png)
 
+6. Flowchart nya
+
+![flowchart](https://user-images.githubusercontent.com/56831922/67768112-6ba34500-fa84-11e9-976f-02cf9e3e3179.jpg)
