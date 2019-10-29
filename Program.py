@@ -3,10 +3,10 @@ f = int(input("masukan bilangan kedua : "))
 g = int(input("masukan bilangan ketiga : "))
 
 if e > f and e > g:
-    print("maks = ", e)
+    print(e,"adalah tertinggi")
 elif f > e and f > g:
-    print("maks = ", f)
+    print(f,"adalah tertinggi")
      
 else: 
-    print("maks = ", g)
+    print(g,"adalah tertinggi")
 
