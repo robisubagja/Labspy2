@@ -2,9 +2,9 @@
 
 
 1. memasukan 3 buah variable dan mendeklarasikan mengunakan integer "int" dan perintah "input" untuk memasukan bilangan
-2. menggunakan statment "if" jika nilai A lebih besar dari nilai B "and" nilai A lebih besar dari nilai C jika benar maka hasil nilai maksimal adalah "A"
-3. menggunakan "elif" selain jika nilai B lebih besar dari nilai A dan nilai B lebih besar dari nilai C jika benar maka hasil nilai maksimal nya adalah "B"
-4. "else" selain nilai A dan B maka hasil maksimal nya adalah nilai "C"
+2. menggunakan statment "if" jika nilai E lebih besar dari nilai F "and" nilai E lebih besar dari nilai G jika benar maka hasil nilai maksimal adalah "E"
+3. menggunakan "elif" selain jika nilai F lebih besar dari nilai E dan nilai F lebih besar dari nilai G jika benar maka hasil nilai maksimal nya adalah "F"
+4. "else" selain nilai E dan F maka hasil maksimal nya adalah nilai "G"
 
 5. dan ini adalah hasil nya
 
