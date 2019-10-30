@@ -12,4 +12,4 @@
 
 6. Flowchart nya
 
-![flowchart](https://user-images.githubusercontent.com/56831922/67768112-6ba34500-fa84-11e9-976f-02cf9e3e3179.jpg)
+![flowchart](https://user-images.githubusercontent.com/56831922/67830529-92598e00-fb0d-11e9-9749-61d2eb2c115a.jpg)
